@@ -17,3 +17,11 @@ I like ravioli because it can have a lot of **different** things inside of it so
 - **even more ravioli (never too much)**  
 
 [learn about my favorite movie here](./MyMovie.md) 
+
+## my favorite quotes
+
+> **"Do or do not. There is no try."**  
+> *- Yoda*  
+
+> **"It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena."**  
+> *- Theodore Roosevelt*  
